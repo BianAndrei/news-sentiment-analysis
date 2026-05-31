@@ -1,0 +1,19 @@
+# API keys — NEVER commit these
+.env
+config.py
+
+# Data files — too large for GitHub
+data/raw/*.csv
+data/processed/*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

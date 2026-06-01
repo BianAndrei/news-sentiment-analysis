@@ -60,6 +60,6 @@ _(To be filled in after analysis is complete)_
 
 ## Author
 
-Your Name — Big Data Fundamentals, Final Project
+Bian Andrei — Big Data Fundamentals, Final Project
 
 https://public.tableau.com/app/profile/bian.andrei2532/viz/ProjectBigData_17803114588630/NewsHeadlineSentimentAnalysis?publish=yes

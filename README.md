@@ -18,15 +18,15 @@ NewsAPI (REST) → Python (Pandas) → PySpark → VADER NLP → Power BI Dashbo
 
 ## Tools Used
 
-| Stage | Tool |
-|---|---|
-| Data Acquisition | Python `requests`, NewsAPI |
-| Preprocessing | Python, Pandas |
-| EDA | Matplotlib, Seaborn, WordCloud |
-| Big Data Processing | PySpark |
-| Text Analytics | VADER Sentiment (NLP) |
-| Visualization | Power BI / Tableau Public |
-| Version Control | GitHub |
+| Stage               | Tool                           |
+| ------------------- | ------------------------------ |
+| Data Acquisition    | Python `requests`, NewsAPI     |
+| Preprocessing       | Python, Pandas                 |
+| EDA                 | Matplotlib, Seaborn, WordCloud |
+| Big Data Processing | PySpark                        |
+| Text Analytics      | VADER Sentiment (NLP)          |
+| Visualization       | Power BI / Tableau Public      |
+| Version Control     | GitHub                         |
 
 ## Installation
 
@@ -56,8 +56,10 @@ python src/fetch_news.py
 
 ## Key Findings
 
-*(To be filled in after analysis is complete)*
+_(To be filled in after analysis is complete)_
 
 ## Author
 
 Your Name — Big Data Fundamentals, Final Project
+
+https://public.tableau.com/app/profile/bian.andrei2532/viz/ProjectBigData_17803114588630/NewsHeadlineSentimentAnalysis?publish=yes
